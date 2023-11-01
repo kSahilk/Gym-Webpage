@@ -1,2 +1,2 @@
 # Gym-Webpage
- This contains a webpage of gym in html and css #html #css
+Our Code basically focuses on web page containing a gym page using HTML and CSS 
